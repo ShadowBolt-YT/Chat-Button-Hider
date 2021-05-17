@@ -1,2 +1,2 @@
 # Chat-Button-Hider
-It's a texture pack made for FadBoy.
+It's a texture pack made for FabBoy.
